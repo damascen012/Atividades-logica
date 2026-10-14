@@ -8,7 +8,7 @@ public class Prod {
         int v1 = input.nextInt();
         int v2 = input.nextInt();
         
-        int prod = v1 + v2;
+        int prod = v1 * v2;
         System.out.println("PROD = " + prod);
         input.close();
     }
